@@ -46,6 +46,8 @@ The repository is structured in folders as:
     │   ├─ valla.py
     │   ├─ ella.py
     │   └─ utils.py
+    ├── utils                   # Datasets, Models, Metrics and Torch Misc
+    ├── weihgts                 # MAP solution weights for used models  
     ├── LICENSE
     ├── README.md
     └── requirements.txt
